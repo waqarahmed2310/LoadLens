@@ -1,0 +1,11 @@
+[project]
+name = "loadlens"
+version = "1.0.0"
+description = "Parcel preload simulator, misload detector and loading-zone optimizer (synthetic data)."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
