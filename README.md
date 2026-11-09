@@ -16,7 +16,7 @@ LoadLens simulates a preload shift minute by minute and answers four practical q
 
 > All data is synthetic. LoadLens does not use, describe or represent any real company, facility or dataset.
 
-**Live demo:** _add your Streamlit Community Cloud link here_
+**Live demo:** _https://loadlens-logistics.streamlit.app/_
 
 ![Dashboard screenshot](docs/screenshot.png)
 
